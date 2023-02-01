@@ -1,6 +1,6 @@
 {
   "name": "@afterburnerhq/java-types",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Java types for usage in GraalJS",
   "main": "./types/main.d.ts",
   "types": "./types/main.d.ts",
