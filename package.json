@@ -1,0 +1,15 @@
+{
+  "name": "@afterburnerhq/java-types",
+  "version": "0.0.0",
+  "description": "Java types for usage in GraalJS",
+  "main": "./types/main.d.ts",
+  "types": "./types/main.d.ts",
+  "author": "Vladimir Mutafov",
+  "license": "Apache-2.0",
+  "scripts": {
+    "test": ""
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
